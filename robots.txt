@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berita-saja.github.io/onlynews/.xml
